@@ -1,1 +1,3 @@
-# lynx
+# linux
+#boooo SCM
+#Fuck GITHUB
